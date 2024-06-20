@@ -8,9 +8,17 @@ Welcome to treasure chest of all the projects I have worked on or currently work
 
 ## Contacts
 If you want to get in touch with me drop a message in one of these:
-- [LinkedIn](www.linkedin.com/in/joão-rodrigues-a63498232)
-- [Email](joao.ricardo.vdg@gmail.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:SEU_EMAIL" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/SEU_TWITTER" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+  </a>
+</p>
 <!--
 **Mad-Karma/Mad-Karma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
