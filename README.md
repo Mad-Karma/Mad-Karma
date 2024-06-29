@@ -8,8 +8,8 @@ Welcome to the treasure chest of all the projects I have worked on or currently 
 
 ## Contacts
 If you want to get in touch with me drop a message in one of these:
-- [LinkedIn](www.linkedin.com/in/joão-rodrigues-a63498232)
-- [Email](joao.ricardo.vdg@gmail.com)
+- www.linkedin.com/in/joão-rodrigues-a63498232
+- joao.ricardo.vdg@gmail.com
 
 
 <!--
