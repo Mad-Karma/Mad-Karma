@@ -2,7 +2,7 @@
 
 I'm João Rodrigues, a software engineering student at Universidade do Minho.
 
-Welcome to the treasure chest of all the projects I have worked on or currently working.
+Welcome to the treasure chest of all the projects I have worked on or currently working on.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mad-Karma&layout=compact&theme=radical)
 
